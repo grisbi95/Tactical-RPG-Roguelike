@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="Spell" load_steps=2 format=3 uid="uid://c18qkicfsxptc"]
+
+[ext_resource type="Script" path="res://custom_ressources/spell.gd" id="1_qeikx"]
+
+[resource]
+script = ExtResource("1_qeikx")
+name = "Unnamed Spell"
+description = "No description."
+range = 1
+area_of_effect = 1
+damage = 0
+mana_cost = 0
+effect = "None"
